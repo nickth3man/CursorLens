@@ -4,7 +4,7 @@ Cursor Lens is an open-source tool designed to provide insights into AI-assisted
 
 We are live on ProductHunt today, please upvote us if you find this useful! 🙏
 
-<a href="https://www.producthunt.com/posts/cursor-lens?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-cursor&#0045;lens" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=480850&theme=neutral" alt="Cursor&#0032;Lens - Open&#0032;Source&#0032;Dashboard&#0032;and&#0032;Analytics&#0032;for&#0032;Cursor&#0032;IDE | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+[![Cursor Lens - Open Source Dashboard and Analytics for Cursor IDE](https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=480850&theme=neutral)](https://www.producthunt.com/posts/cursor-lens?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-cursor-lens)
 
 ![Cursor Lens Dashboard](public/cl-dashboard.png)
 
@@ -72,7 +72,7 @@ For full details on each step, please see the [Installation Guide](https://www.c
 ![Example Cache creation response](public/ant-cache-create.png)
 ![Example Cache read response](public/ant-cache-read.png)
 
-# Releases
+## Releases
 
 ## Nightly - 2024-08-24
 
